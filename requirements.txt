@@ -43,7 +43,7 @@ kombu==4.6.3
 MarkupSafe==1.1.1
 msgpack==0.6.1
 numpy==1.16.1
-opencv-python==4.0.0.21
+opencv-python==4.1.1.26
 PasteDeploy==2.0.1
 pika==1.1.0
 Pillow==5.4.1
